@@ -4,3 +4,5 @@
 - 🌱 Estudando novas ferramentas para transformar a gestão empresarial! nos estudos do ecossistema TOTVS e desenvolvimento focado em soluções ERP, para otimizar processos e gerar mais eficiência. 💻🚀
 - 😄 Pronouns: ela/dela
 -  Todo dia é uma nova chance de evoluir. ✨
+  
+![Animação da Cobrinha](https://raw.githubusercontent.com/eshley-y/eshley-y/output/dist/github-contribution-grid-snake.svg)
