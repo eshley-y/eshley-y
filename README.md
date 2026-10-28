@@ -5,4 +5,4 @@
 - 😄 Pronouns: ela/dela
 -  Todo dia é uma nova chance de evoluir. ✨
   
-![Animação da Cobrinha](https://raw.githubusercontent.com/eshley-y/eshley-y/output/dist/github-contribution-grid-snake.svg)
+https://raw.githubusercontent.com/eshley-y/eshley-y/output/dist/github-contribution-grid-snake.svg
